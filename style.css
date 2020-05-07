@@ -1,0 +1,284 @@
+.main{
+    background-color: #0174DF;
+    padding: 20px;
+    margin: auto;
+    color: white;    
+}
+.bt{
+    height: 30px;
+    color: green;   
+}
+.btn-home{    
+    border-radius: 30px;
+    background-color: #0174DF;
+    color: white;
+    width: 70px;
+    height: 35px;
+    text-align: center;        
+}
+a:link{ 
+   text-decoration:white;
+}
+.dp1:hover{
+    border-radius: 30px;   
+    width: 70px;
+    height: 35px;
+    background-color: #0174DF;  
+    color: white;
+    text-align: center;
+}
+.dp2:hover{
+    background-color: #0174DF;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    width: 150px;
+    height: 35px;
+}
+.dp3:hover{
+    background-color: #0174DF;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    width: 150px;
+    height: 35px;
+}
+.dp4:hover{
+    background-color: #0174DF;
+    color: white;
+    border-radius: 30px;    
+    text-align: center;
+    width: 70px;
+    height: 35px;
+}
+.dp5:hover{
+    background-color: #0174DF;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    width: 70px;
+    height: 35px;
+}
+.dp6:hover{
+    background-color: #0174DF;
+    color: white;
+    border-radius: 30px;
+    text-align: center; 
+    width: 100px;
+    height: 35px;   
+}
+.mrque{
+    background-color: #0174DF;
+    color: white;
+    padding: 5px;
+}
+p{
+    padding-top: 1%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: justify;
+    line-height: 2;
+    font-family: 'Nunito', sans-serif;
+}
+.heading1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+.heading2{
+    text-align: center;
+}
+.newdiv{
+    width: 100%;
+    height: 35%;
+    background-color: #0174DF;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.one{
+    display: inline-block;
+    text-align: center;
+    padding:10px;
+}
+.two{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}    
+.three{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}
+.four{
+    display: inline-block;
+    text-align: center;
+}
+.whatwe{
+    background-color: #ECF0F1;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.cc{
+    width: 80%;
+    height: 30%;
+    background-color: #ECF0F1;
+    padding-left: 12%;
+    padding-right: 8%;
+    padding-bottom: 3%;
+}
+.cc1{
+    display: inline-block;
+    color: #2E64FE;
+    background-color: #FDFEFE;
+    border : 1px; 
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    padding-right: 5%;
+    padding-top: 5%;
+    height: 60px;
+}
+.cc2{
+    display: inline-block;
+    color: #2E64FE;
+    background-color: #FDFEFE ;
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+    padding-left: 8%;
+    padding-bottom: 10%;
+    padding-right: 8%;
+    padding-top: 5%;
+    height: 60px;
+    border: 1px;
+}
+.cc3{
+    display: inline-block;
+    color: #2E64FE;
+    background-color: #FDFEFE ;
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+    padding-left: 8%;
+    padding-bottom: 10%;
+    padding-right: 8%;
+    padding-top: 5%;
+    height: 60px;    
+    border: 1px;
+}
+.cc4{
+    display: inline-block;
+    color: #2E64FE;
+    background-color: #FDFEFE ;
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+    padding-left: 6%;
+    padding-bottom: 10%;
+    padding-right: 5%;
+    padding-top: 5%;
+    height: 60px;
+    border: 1px;
+}
+.cc5{
+    display: inline-block;
+    color: #2E64FE;
+    background-color: #FDFEFE ;
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+    padding-left: 8%;
+    padding-bottom: 10%;
+    padding-right: 8%;
+    padding-top: 5%;
+    height: 60px;
+    border: 1px;
+}
+.cc6{
+    display: inline-block;
+    color: #2E64FE;
+    background-color: #FDFEFE ;
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+    padding-left: 6%;
+    padding-bottom: 10%;
+    padding-right: 7%;
+    padding-top: 5%;
+    height: 60px;
+    border: 1px;
+}
+.mission{
+    display: inline-block;
+    padding-left: 3%;   
+    color: #2E64FE;
+}
+.event{
+    display: inline-block;
+    padding-left: 3%;   
+    width: 25%; 
+    border: 1px ;    
+}
+ .div1{
+    display: inline;
+    padding-left: 3%;
+    width: 100%;
+}
+.hh3{
+    display: inline-block;
+}
+.hepatitis{
+    background-color:  #ECF0F1;
+    width: 30%;
+    padding-left: 2%;
+}
+.div2{
+    display: inline;
+    width: 100%;
+    padding-left: 3%;
+}
+.housing{
+    background-color:  #ECF0F1;
+    width: 30%;
+    padding-left: 2%;
+}
+.div3{
+    display: inline;    
+    width: 100%;
+    padding-left: 3%;
+}
+.it{
+    background-color:  #ECF0F1;
+    width: 30%;
+    padding-left: 2%;
+}
+.div4{
+    display: inline;
+    width: 100%;
+    padding-left: 3%;
+}
+.thar{
+    background-color:  #ECF0F1;
+    width: 30%;
+    padding-left: 2%;
+} 
+.newhdng{
+    text-align: right;
+    padding-right: 20%;
+    background-color: #02191F;
+}
+.endingdiv{
+    background-color: #02191F;
+    color:  #979A9A;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    padding-right: 5%;
+    line-height: 1.5;
+    width: 92%;
+}
+footer{
+    background-color: #0174DF;
+    color: white;
+    padding: 2%;
+}
